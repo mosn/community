@@ -3,8 +3,6 @@ Welcome to the MOSN community!
 
 This is the starting point for becoming a contributor - improving code and docs, giving talks, etc.
 
-This is the starting point for becoming a contributor - improving code and docs, giving talks, etc.
-
 - [Introduction](#introduction)
 - [MOSN authors](#mosn-authors)
 - [Resources](#resources)
