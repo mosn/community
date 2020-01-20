@@ -6,8 +6,9 @@ The current working groups are:
 
 | Group | Lead                                          | Description                                                  |
 | ----- | --------------------------------------------- | ------------------------------------------------------------ |
-| Dubbo | [taoyuanyuan](https://github.com/taoyuanyuan) | Support dubbo protocol，support  service registration & discovery（Zookeeper, Kubernetes），support dubbo governance，dubbo routemanager |
+| Dubbo | [taoyuanyuan](https://github.com/taoyuanyuan) | Support dubbo protocol, support service registration & discovery(Zookeeper, Kubernetes), support dubbo governance, dubbo routemanager |
 | Istio | [wangfakang](https://github.com/wangfakang)   | Support UDPA/xDS, Enhance HTTP series feature, such as WRR, Statistics and Rate limit etc, Pass the test of Istio-1.4.x |
+| Website |[rootsongjc](https://github.com/rootsongjc)|Website and docs|
 
 ## Getting in touch
 
