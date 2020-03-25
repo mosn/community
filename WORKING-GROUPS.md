@@ -5,15 +5,15 @@ To enhance community transparency and collaboration among community members, we 
 ## WG lists
 
 - [Istio WG](wg-istio.md)
-- Dubbo WG
-- Website WG
+- [Dubbo WG](wg-dubbo.md)
+- [Website WG](wg-website.md)
 
 ## WG leads
 
-The current working groups are:
+The currently created working groups are:
 
 | Group | Lead                                          | Description                                                  |
 | ----- | --------------------------------------------- | ------------------------------------------------------------ |
-| Dubbo | [taoyuanyuan](https://github.com/taoyuanyuan) | Support dubbo protocol, support service registration & discovery(Zookeeper, Kubernetes), support dubbo governance, dubbo routemanager |
+| Dubbo | [cch123](https://github.com/cch123) | Support dubbo protocol, support service registration & discovery(Zookeeper, Kubernetes), support dubbo governance, dubbo routemanager |
 | Istio | [wangfakang](https://github.com/wangfakang)   | Support UDPA/xDS, Enhance HTTP series feature, such as WRR, Statistics and Rate limit etc, Pass the test of Istio-1.4.x |
 | Website |[rootsongjc](https://github.com/rootsongjc)|Website and docs|
