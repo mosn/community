@@ -4,13 +4,11 @@
 
 Support dubbo protocol, support service registration & discovery(Zookeeper, Kubernetes), support dubbo governance, dubbo routemanager.
 
-## Vision
-
-TBD
-
 ## Meetings
 
-TBD
+Regular WG meetings: [Friday 8:00 PM CST(Beijing)](https://us04web.zoom.us/j/254392732) biweekly
+
+- [Meeting notes and agenda](https://docs.google.com/document/d/15QV30x6EZ8IybP3I6bORWJEuv-1ijsIXGXhsjKvQxdc/edit?usp=sharing)
 
 ## Contact
 
