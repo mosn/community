@@ -14,6 +14,10 @@ Regular WG meetings: [Friday 8:00 PM CST(Beijing)](https://zoom.com.cn/j/6063569
 
 - [Meeting notes and agenda](https://docs.google.com/document/d/12lgyCW-GmlErr_ihvAO7tMmRe87i70bv2xqe4h2LUz4/edit?usp=sharing)
 
+## Roadmap
+
+MOSN Istio WG roadmap, see the [Google sheet](https://docs.google.com/spreadsheets/d/1fALompY9nKZNImOuxQw23xtMD-5rCBrXWziJZkj76bo/edit?usp=sharing).
+
 ## Contact
 
 - [Slack](https://join.slack.com/t/mosnproxy/shared_invite/zt-cah41h36-9PUN6meNYyROY0aDEgRuzg)
