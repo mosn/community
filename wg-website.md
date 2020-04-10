@@ -1,5 +1,7 @@
 # Website Working Group
 
+Lead: [rootsongjc](https://github.com/rootsongjc)
+
 ## Goal
 
 The goal of this working group is to spread MOSN technology and build the MOSN community.

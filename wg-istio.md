@@ -1,5 +1,7 @@
 # MOSN Istio Working Group
 
+Lead: [wangfakang](https://github.com/wangfakang)
+
 ## Goals
 
 Through the adaptation of [Istio](https://github.com/istio/istio) and [MOSN](https://github.com/mosn/mosn), the service discovery, traffic management, and monitoring capabilities of MOSN can be realized through Istio.

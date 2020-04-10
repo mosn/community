@@ -10,7 +10,7 @@ This is the starting point for becoming a contributor - improving code and docs,
 
 ## Introduction
 
-MOSN is a powerful cloud-native proxy acts as edge proxy or service mesh's data plane.
+MOSN is a cloud native proxy for edge or service mesh. 
 
 Visit [mosn.io](https://mosn.io) for more information about using MOSN.
 

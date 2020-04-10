@@ -1,5 +1,7 @@
 # Dubbo Working Group
 
+Lead: [cch123](https://github.com/cch123)
+
 ## Goals
 
 Support dubbo protocol, support service registration & discovery(Zookeeper, Kubernetes), support dubbo governance, dubbo routemanager.
