@@ -5,8 +5,12 @@ This is the starting point for becoming a contributor - improving code and docs,
 
 - [Introduction](#introduction)
 - [MOSN authors](#mosn-authors)
-- [Working groups](#working-groups)
 - [Resources](#resources)
+
+## Other documents
+
+- [Community Roles](ROLES.md) - describes the roles individuals can assume within the MOSN community.
+- [Working Groups](WORKING-GROUPS.md) - to enhance community transparency and collaboration among community members, MOSN created a series of  working groups.
 
 ## Introduction
 
@@ -17,12 +21,6 @@ Visit [mosn.io](https://mosn.io) for more information about using MOSN.
 ## MOSN authors
 
 MOSN is an open source project started by [Ant Financial](https://www.antfin.com/) with an active development community.
-
-## Working groups
-
-To enhance community transparency and collaboration among community members, MOSN created a series of  working groups.
-
-See our [working groups page](WORKING-GROUPS.md) for more details.
 
 ## Resources
 
