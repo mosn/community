@@ -1,5 +1,5 @@
 ---
-name: request membership template
+name: 'REQUEST: New membership for GITHUB_ACCOUNT'
 about: Request to join the MOSN GitHub org.
 title: 'REQUEST: New membership for'
 labels: membership
