@@ -1,10 +1,10 @@
-# Website Working Group
+# UX Working Group
 
 Lead: [rootsongjc](https://github.com/rootsongjc)
 
 ## Goal
 
-The goal of this working group is to spread MOSN technology and build the MOSN community.
+The goal of this working group is to enhance he user experience, spread MOSN technology and foster a healthy community.
 
 ## Vision
 
@@ -12,7 +12,7 @@ Provide complete documentation, standardized participation process, and create a
 
 ## Meetings
 
-TBD
+There is no specific meeting for this group, please see the other working groups.
 
 ## Contact
 

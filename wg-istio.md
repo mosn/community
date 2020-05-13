@@ -12,7 +12,7 @@ To make MOSN being one of best cloud-native standard data planes for Istio.
 
 ## Meetings
 
-Regular WG meetings: [Thursday 8:00 PM CST(Beijing)](https://zoom.com.cn/j/606356911) biweekly
+Regular WG meetings: [Wednesday 8:00 PM CST(Beijing)](https://zoom.com.cn/j/606356911) biweekly
 
 - [Meeting notes and agenda](https://docs.google.com/document/d/12lgyCW-GmlErr_ihvAO7tMmRe87i70bv2xqe4h2LUz4/edit?usp=sharing)
 
