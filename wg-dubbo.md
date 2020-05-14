@@ -8,7 +8,7 @@ Support dubbo protocol, support service registration & discovery(Zookeeper, Kube
 
 ## Meetings
 
-Regular WG meetings: [Thursday 8:00 PM CST(Beijing)](https://us04web.zoom.us/j/254392732) biweekly
+Regular WG meetings: [Thursday 8:00 PM CST(Beijing)](https://zoom.com.cn/j/254392732?pwd=SkxYRjBrQWYvdEhJaVkzQktwdjZhZz09) biweekly
 
 - [Meeting notes and agenda](https://docs.google.com/document/d/15QV30x6EZ8IybP3I6bORWJEuv-1ijsIXGXhsjKvQxdc/edit?usp=sharing)
 
