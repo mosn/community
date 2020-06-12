@@ -29,6 +29,12 @@ MOSN related resources:
 
 - [icons](icons)
 
+## Community meeting
+
+- [Wednesday 8:00 PM CST(Beijing)](https://ebay.zoom.com.cn/j/96285622161)  every other week
+
+- [Meeting notes](https://docs.google.com/document/d/12lgyCW-GmlErr_ihvAO7tMmRe87i70bv2xqe4h2LUz4/edit?usp=sharing)
+
 ## Tutorials
 
 Learn MOSN with tutorials.
